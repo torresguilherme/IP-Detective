@@ -23,3 +23,5 @@ O código faz uma requisição para a API do ipstack e exibe informações como:
 
 - Digite o IPV4 ou IPV6 no espaço em branco
 - clicar em "Buscar"
+
+![image](https://github.com/user-attachments/assets/fb0f2ed7-0e94-435f-b99f-3434d8770f3c)
